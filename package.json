@@ -9,7 +9,7 @@
   },
   "build": {},
   "devDependencies": {
-    "electron": "^8.2.1"
+    "electron": "^8.2.4"
   },
   "private": true
 }
